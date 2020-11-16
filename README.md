@@ -4,8 +4,8 @@ A simple chat application build using nodejs, express and socket.io following a 
 
 -   Server side code is in index.js which also serves public folder for client using express.
 -   Client side code is in public which is server on server start.
--   Connects to socket when usrl is opened in browser.
--   Each browsers generates a new random user.
+-   Connects to socket when url is opened in browser.
+-   Each browser tab generates a new random user.
 -   Shows active users.
 -   Shows all messages sent.
 
